@@ -37,7 +37,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Conecta" />
+                android:text="@string/conectar" />
 
         </LinearLayout>
 
@@ -49,19 +49,19 @@
                 android:id="@+id/button1"
                 android:layout_width="80dp"
                 android:layout_height="match_parent"
-                android:text="Iniciar" />
+                android:text="@string/arrancar" />
 
             <Button
                 android:id="@+id/button2"
                 android:layout_width="80dp"
                 android:layout_height="match_parent"
-                android:text="Parar" />
+                android:text="@string/parar" />
 
             <Button
                 android:id="@+id/button3"
                 android:layout_height="match_parent"
                 android:layout_width="80dp"
-                android:text="Info" />
+                android:text="@string/info" />
         </LinearLayout>
 
         <TextView
@@ -74,7 +74,7 @@
             android:id="@+id/button4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Cambia Frecuencia" />
+            android:text="@string/cambiar_frecuencia" />
 
         <EditText
             android:id="@+id/editText1"

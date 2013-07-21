@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">piFM_controller</string>
+    <string name="app_name">Cliente piFM Radio</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">piFM Controller</string>
-
+    <string name="conectar">Conectar</string>
+    <string name="desconectar">Desconectar</string>
+    <string name="parar">Parar</string>
+	<string name="arrancar">Iniciar</string>
+	<string name="info">Info</string>
+	<string name="cambiar_frecuencia">Cambia Frecuencia</string>
 </resources>
